@@ -1,6 +1,6 @@
 # Wall Mounted TV Control Center
 
-If you are driving TVs with Raspberry Pis that are set up with [raspberry-tv-driver](https://github.com/librato/raspberry-tv-driver) you can now tell them to "dial home" and load the URL that is configured in this repo on startup. To make the Raspberry check this repo switch install the [start.sh](start.sh) from this repo in the home directory (replacing the existing one). 
+If you are driving TVs with Raspberry Pis that are set up with [raspberry-tv-driver](https://github.com/nikwek/raspberry-tv) you can now tell them to "dial home" and load the URL that is configured in this repo on startup. To make the Raspberry check this repo switch install the [start.sh](start.sh) from this repo in the home directory (replacing the existing one). 
 
 ## Map Raspberries to URLs
 
